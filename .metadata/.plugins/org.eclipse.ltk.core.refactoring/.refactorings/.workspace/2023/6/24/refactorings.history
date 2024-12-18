@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;24-SBMS-Springmono-flux-app&apos; to &apos;25-SBMS-Springmono-flux-app&apos;&#x0D;&#x0A;- Original element: &apos;24-SBMS-Springmono-flux-app&apos;&#x0D;&#x0A;- Renamed element: &apos;24-SBMS-Springmono-flux-app&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;24-SBMS-Springmono-flux-app&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=24-SBMS-Springmono-flux-app" name="25-SBMS-Springmono-flux-app" references="true" stamp="1686765047207" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "sameer",
+	"email": "myfatherserij@gmail.com",
+	"phno": 711762,
+	"addr": {
+		"city": "Hyd",
+		"state": "Telegana",
+		"country": "India"
+	}
+}

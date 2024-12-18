@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Customer.java&apos; to &apos;02-Rest-Api-app/src/main/java/in.sameerit&apos;&#x0D;&#x0A;- Original project: &apos;01-Jackson-App&apos;&#x0D;&#x0A;- Destination element: &apos;02-Rest-Api-app/src/main/java/in.sameerit&apos;&#x0D;&#x0A;- Original element: &apos;in.sameerit.Customer.java&apos;" description="Copy compilation unit" destination="=02-Rest-Api-app/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;in.sameerit" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.sameerit{Customer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1682242579553" units="1" version="1.0"/>
+</session>
